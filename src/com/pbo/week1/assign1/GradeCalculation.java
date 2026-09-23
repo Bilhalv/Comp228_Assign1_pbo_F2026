@@ -1,4 +1,4 @@
-package com.va.week1.assign1;
+package com.pbo.week1.assign1;
 
 import java.util.Scanner;
 
